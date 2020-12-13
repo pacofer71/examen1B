@@ -1,0 +1,5 @@
+; tus opciones aquí
+[opciones]
+usuario=tu_usuario
+baseDatos=tu_base_de_datos
+pass=tu_pass

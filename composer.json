@@ -1,0 +1,24 @@
+{
+    "name": "usuario/ejemplopdo",
+    "description": "Examen PDO",
+    "type": "project",
+    "license": "GNU/GPL",
+    "authors": [
+        {
+            "name": "usuario",
+            "email": "usuario@correo.es"
+        }
+    ],
+    "config" :{
+        "optimize-autoloader": true
+    },
+    "autoload":{
+        "psr-4": {
+            "Clases\\": "class"
+        }
+    },
+    "require": {
+        "twbs/bootstrap": "^4.5",
+        "fortawesome/font-awesome": "^5.15"
+    }
+}
